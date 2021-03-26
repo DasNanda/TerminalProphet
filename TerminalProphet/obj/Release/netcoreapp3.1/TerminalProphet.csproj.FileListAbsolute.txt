@@ -1,0 +1,13 @@
+D:\Projects\Programs\TerminalProphet\TerminalProphet\bin\Release\netcoreapp3.1\TerminalProphet.exe
+D:\Projects\Programs\TerminalProphet\TerminalProphet\bin\Release\netcoreapp3.1\TerminalProphet.deps.json
+D:\Projects\Programs\TerminalProphet\TerminalProphet\bin\Release\netcoreapp3.1\TerminalProphet.runtimeconfig.json
+D:\Projects\Programs\TerminalProphet\TerminalProphet\bin\Release\netcoreapp3.1\TerminalProphet.runtimeconfig.dev.json
+D:\Projects\Programs\TerminalProphet\TerminalProphet\bin\Release\netcoreapp3.1\TerminalProphet.dll
+D:\Projects\Programs\TerminalProphet\TerminalProphet\bin\Release\netcoreapp3.1\TerminalProphet.pdb
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.AssemblyInfoInputs.cache
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.AssemblyInfo.cs
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.csproj.CoreCompileInputs.cache
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.dll
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.pdb
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.genruntimeconfig.cache
+D:\Projects\Programs\TerminalProphet\TerminalProphet\obj\Release\netcoreapp3.1\TerminalProphet.csprojAssemblyReference.cache

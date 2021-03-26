@@ -1,0 +1,5 @@
+D:\Programs\TerminalProphet\TerminalProphet.exe
+D:\Programs\TerminalProphet\TerminalProphet.dll
+D:\Programs\TerminalProphet\TerminalProphet.deps.json
+D:\Programs\TerminalProphet\TerminalProphet.runtimeconfig.json
+D:\Programs\TerminalProphet\TerminalProphet.pdb
