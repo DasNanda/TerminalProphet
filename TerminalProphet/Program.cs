@@ -90,6 +90,10 @@ namespace TerminalProphet
                 seed += feelingSeed[i];
             }
 
+            if (r == null) r = new Random();
+
+            seed += r.Next(0, 7);
+
             return seed;
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj": {}
+    "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj": {
+    "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj",
+        "projectUniqueName": "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj",
         "projectName": "TerminalProphet",
-        "projectPath": "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj",
+        "projectPath": "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet.csproj",
         "packagesPath": "C:\\Users\\Nandi\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\TerminalProphet\\obj\\",
+        "outputPath": "D:\\Projects\\Programs\\TerminalProphet\\TerminalProphet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nandi\\AppData\\Roaming\\NuGet\\NuGet.Config",
